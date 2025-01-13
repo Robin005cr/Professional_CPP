@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstantObjectMutable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConstantObjectMutable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstantObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConstantObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstAfterFunctionPrototype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConstAfterFunctionPrototype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstFunctionArguments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConstFunctionArguments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InitalizerListUseCase4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InitalizerListUseCase3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InitalizerListUseCase2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InitalizerListUseCase1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\Enum_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Enum_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\FunctionPointerCallBack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FunctionPointerCallBack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\FunctionPointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FunctionPointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\CastingConstFunctionArgs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CastingConstFunctionArgs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InlineFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InlineFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\OperatorOverloadingplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OperatorOverloadingplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\OperatorOverloadingBasic.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OperatorOverloadingBasic.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\HierarchialInheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HierarchialInheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\MultiLevelInheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiLevelInheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PVFchara3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PVFchara3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PVFchara12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PVFchara12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PureVirtualFunction.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PureVirtualFunction.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\VirtualFunctionSolution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VirtualFunctionSolution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\VirtualFunctionsProblem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VirtualFunctionsProblem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ClassPointerDynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassPointerDynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ClassPointerStatic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassPointerStatic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DestructorUse3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DestructorUse2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DestructorUse1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DelegatingConstructor_Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DelegatingConstructor_Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DelegatingConstructor_Problem.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DelegatingConstructor_Problem.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\TelescopicConstructorChain.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TelescopicConstructorChain.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\Constructoroverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Constructoroverloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConstantObjectMutable.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstantObjectMutable.cpp",
+              "RelativeDocumentMoniker": "ConstantObjectMutable.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstantObjectMutable.cpp",
+              "RelativeToolTip": "ConstantObjectMutable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T11:01:28.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstantObject.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstantObject.cpp",
+              "RelativeDocumentMoniker": "ConstantObject.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstantObject.cpp",
+              "RelativeToolTip": "ConstantObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T11:00:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConstAfterFunctionPrototype.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstAfterFunctionPrototype.cpp",
+              "RelativeDocumentMoniker": "ConstAfterFunctionPrototype.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstAfterFunctionPrototype.cpp",
+              "RelativeToolTip": "ConstAfterFunctionPrototype.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T17:53:30.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstFunctionArguments.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstFunctionArguments.cpp",
+              "RelativeDocumentMoniker": "ConstFunctionArguments.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ConstFunctionArguments.cpp",
+              "RelativeToolTip": "ConstFunctionArguments.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T17:51:08.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitalizerListUseCase4.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase4.cpp",
+              "RelativeDocumentMoniker": "InitalizerListUseCase4.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase4.cpp",
+              "RelativeToolTip": "InitalizerListUseCase4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T17:46:53.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InitalizerListUseCase3.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase3.cpp",
+              "RelativeDocumentMoniker": "InitalizerListUseCase3.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase3.cpp",
+              "RelativeToolTip": "InitalizerListUseCase3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T17:46:49.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InitalizerListUseCase2.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase2.cpp",
+              "RelativeDocumentMoniker": "InitalizerListUseCase2.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase2.cpp",
+              "RelativeToolTip": "InitalizerListUseCase2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T17:46:45.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InitalizerListUseCase1.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase1.cpp",
+              "RelativeDocumentMoniker": "InitalizerListUseCase1.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InitalizerListUseCase1.cpp",
+              "RelativeToolTip": "InitalizerListUseCase1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T17:46:42.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enum_class.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\Enum_class.cpp",
+              "RelativeDocumentMoniker": "Enum_class.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\Enum_class.cpp",
+              "RelativeToolTip": "Enum_class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T18:18:39.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FunctionPointerCallBack.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\FunctionPointerCallBack.cpp",
+              "RelativeDocumentMoniker": "FunctionPointerCallBack.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\FunctionPointerCallBack.cpp",
+              "RelativeToolTip": "FunctionPointerCallBack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T16:57:41.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FunctionPointer1.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\FunctionPointer1.cpp",
+              "RelativeDocumentMoniker": "FunctionPointer1.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\FunctionPointer1.cpp",
+              "RelativeToolTip": "FunctionPointer1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T16:56:56.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CastingConstFunctionArgs.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\CastingConstFunctionArgs.cpp",
+              "RelativeDocumentMoniker": "CastingConstFunctionArgs.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\CastingConstFunctionArgs.cpp",
+              "RelativeToolTip": "CastingConstFunctionArgs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T16:53:41.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InlineFunction.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InlineFunction.cpp",
+              "RelativeDocumentMoniker": "InlineFunction.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\InlineFunction.cpp",
+              "RelativeToolTip": "InlineFunction.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T16:50:33.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OperatorOverloadingplus.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\OperatorOverloadingplus.cpp",
+              "RelativeDocumentMoniker": "OperatorOverloadingplus.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\OperatorOverloadingplus.cpp",
+              "RelativeToolTip": "OperatorOverloadingplus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T18:22:18.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OperatorOverloadingBasic.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\OperatorOverloadingBasic.cpp",
+              "RelativeDocumentMoniker": "OperatorOverloadingBasic.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\OperatorOverloadingBasic.cpp",
+              "RelativeToolTip": "OperatorOverloadingBasic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T18:20:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HierarchialInheritance.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\HierarchialInheritance.cpp",
+              "RelativeDocumentMoniker": "HierarchialInheritance.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\HierarchialInheritance.cpp",
+              "RelativeToolTip": "HierarchialInheritance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T17:25:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MultiLevelInheritance.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\MultiLevelInheritance.cpp",
+              "RelativeDocumentMoniker": "MultiLevelInheritance.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\MultiLevelInheritance.cpp",
+              "RelativeToolTip": "MultiLevelInheritance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T17:23:42.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PVFchara3.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PVFchara3.cpp",
+              "RelativeDocumentMoniker": "PVFchara3.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PVFchara3.cpp",
+              "RelativeToolTip": "PVFchara3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T14:24:21.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PVFchara12.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PVFchara12.cpp",
+              "RelativeDocumentMoniker": "PVFchara12.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PVFchara12.cpp",
+              "RelativeToolTip": "PVFchara12.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T14:22:30.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PureVirtualFunction.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PureVirtualFunction.cpp",
+              "RelativeDocumentMoniker": "PureVirtualFunction.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\PureVirtualFunction.cpp",
+              "RelativeToolTip": "PureVirtualFunction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T14:20:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VirtualFunctionSolution.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\VirtualFunctionSolution.cpp",
+              "RelativeDocumentMoniker": "VirtualFunctionSolution.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\VirtualFunctionSolution.cpp",
+              "RelativeToolTip": "VirtualFunctionSolution.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T17:14:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VirtualFunctionsProblem.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\VirtualFunctionsProblem.cpp",
+              "RelativeDocumentMoniker": "VirtualFunctionsProblem.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\VirtualFunctionsProblem.cpp",
+              "RelativeToolTip": "VirtualFunctionsProblem.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T17:12:55.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassPointerDynamic.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ClassPointerDynamic.cpp",
+              "RelativeDocumentMoniker": "ClassPointerDynamic.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ClassPointerDynamic.cpp",
+              "RelativeToolTip": "ClassPointerDynamic.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T13:51:33.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClassPointerStatic.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ClassPointerStatic.cpp",
+              "RelativeDocumentMoniker": "ClassPointerStatic.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\ClassPointerStatic.cpp",
+              "RelativeToolTip": "ClassPointerStatic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T13:51:03.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DestructorUse3.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse3.cpp",
+              "RelativeDocumentMoniker": "DestructorUse3.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse3.cpp",
+              "RelativeToolTip": "DestructorUse3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T13:56:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DestructorUse2.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse2.cpp",
+              "RelativeDocumentMoniker": "DestructorUse2.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse2.cpp",
+              "RelativeToolTip": "DestructorUse2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T13:55:17.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DestructorUse1.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse1.cpp",
+              "RelativeDocumentMoniker": "DestructorUse1.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DestructorUse1.cpp",
+              "RelativeToolTip": "DestructorUse1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T13:54:30.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DelegatingConstructor_Solution.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DelegatingConstructor_Solution.cpp",
+              "RelativeDocumentMoniker": "DelegatingConstructor_Solution.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DelegatingConstructor_Solution.cpp",
+              "RelativeToolTip": "DelegatingConstructor_Solution.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T17:35:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DelegatingConstructor_Problem.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DelegatingConstructor_Problem.cpp",
+              "RelativeDocumentMoniker": "DelegatingConstructor_Problem.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\DelegatingConstructor_Problem.cpp",
+              "RelativeToolTip": "DelegatingConstructor_Problem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T17:34:31.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TelescopicConstructorChain.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\TelescopicConstructorChain.cpp",
+              "RelativeDocumentMoniker": "TelescopicConstructorChain.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\TelescopicConstructorChain.cpp",
+              "RelativeToolTip": "TelescopicConstructorChain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T17:06:12.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Constructoroverloading.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\Constructoroverloading.cpp",
+              "RelativeDocumentMoniker": "Constructoroverloading.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Professional_repo\\MyCodingGit\\Professional_CPP\\Constructoroverloading.cpp",
+              "RelativeToolTip": "Constructoroverloading.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T17:05:39.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
