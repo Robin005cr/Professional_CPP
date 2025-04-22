@@ -60,8 +60,8 @@ Let’s grow together!
 ## 📩 Contact
 
 Got suggestions or just want to say hi?  
-Feel free to reach out via GitHub Issues or connect through any of my socials.
-Feel free to reach out via [LinkedIn] (https://www.linkedin.com/in/robin-cr/).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/robin-cr/).
+
 ---
 
 Thanks for checking out my C++ learning journey! 🌟
