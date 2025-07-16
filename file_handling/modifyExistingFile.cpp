@@ -1,6 +1,6 @@
 /*
  * project   : https://github.com/Robin005cr/Professional_CPP
- * file name : OpenCloseBase.cpp
+ * file name : modifyExistingFile.cpp
  * author    : Robin CR
  * mail id   : robinchovallurraju@gmail.com
  * LinkedIn  : https://www.linkedin.com/in/robin-cr/
@@ -18,12 +18,10 @@ using namespace std;
 int main()
 {
 
-    ofstream fileTax("Tax-2021.txt"); // It will create a file if it does not exist.
-    // If a file already exists, it will be overwritten.
-    
     // Creating a file explicitly using ofstream
-    //fstream file;
-    //file.open("Tax-2021.txt", ios::out);
+    fstream fileTax;
+    fileTax.open("Tax-2021.txt", ios::app); // It will create a file if it does not exist.
+    // If a file already exists, it will be opened in append mode. Modify the content without overwriting.
 
     if (fileTax)
     {
