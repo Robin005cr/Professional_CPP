@@ -31,13 +31,13 @@ The examples and content in this repository are inspired by a variety of sources
 
 Some of the key C++ concepts explored in this repository include:
 
-- File handling
-- Exception handling  
-- Functional Programming
-- Arrays, Strings, and Pointers  
-- Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)  
-- Templates  
-- Standard Template Library (STL)  
+- [File handling]()
+- [Exception handling](https://github.com/Robin005cr/Professional_CPP/tree/main/Exception_Handling)  
+- [Functional Programming]()
+- [Template Programming]()
+- [Move Semantics]()
+- [Operator Overloading](https://github.com/Robin005cr/Professional_CPP/tree/main/operator_overloading)
+
 
 *More topics will be added as I continue learning!*
 
