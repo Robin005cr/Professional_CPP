@@ -1,6 +1,6 @@
 /*
 * project   : https://github.com/Robin005cr/Professional_CPP
-* file name : pvfMultipleInhert.cpp
+* file name : ObjectSlicing_1.cpp
 * author    : Robin CR
 * mail id   : robinchovallurraju@gmail.com
 * LinkedIn  : https://www.linkedin.com/in/robin-cr/
@@ -12,32 +12,38 @@
 *
 */
 #include <iostream>
+#include<string>
 using namespace std;
-
-class Base
+class Apple
 {
-    public : 
-        virtual void configure() = 0;
-};
-
-class DerivedA :public Base
-{
-    public : 
-        void configure()
+    public:
+        virtual string showColor() const
         {
-            cout<<"Configure() from Derived A";
+            return "Red Apple";
         }
-};
-
-class DerivedB :public Base
-{
-    public : 
         
 };
+class GreenApple : public Apple
+{
+    public:
+        string showColor() const override
+        {
+            return "GreenApple";
+        }
+        
+};
+
+string getName(const Apple a)
+{
+    return a.showColor();
+}
+
 int main()
 {
-    DerivedA obj;
-    // DerivedB n1;  // cannot be instantiated
+   
+    GreenApple g;
+    
+    cout<<getName(g);
 
     return 0;
 }
