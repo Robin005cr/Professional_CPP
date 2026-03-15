@@ -1,6 +1,6 @@
 /*
 * project   : https://github.com/Robin005cr/Professional_CPP
-* file name : dynamicCast.cpp
+* file name : dynamicCastRef.cpp
 * author    : Robin CR
 * mail id   : robinchovallurraju@gmail.com
 * LinkedIn  : https://www.linkedin.com/in/robin-cr/
@@ -14,34 +14,40 @@
 #include <iostream>
 using namespace std;
 
-class Base {
+class Base
+{
 public:
-    virtual void show() {   // Must be virtual
+    virtual void show()
+    {
         cout << "Base class\n";
     }
 };
 
-class Derived : public Base {
+class Derived : public Base
+{
 public:
-    void show() override {
+    void show() override
+    {
         cout << "Derived class\n";
     }
 
-    void derivedOnly() {
+    void derivedOnly()
+    {
         cout << "Derived specific function\n";
     }
 };
 
-int main() {
-    Base* ptr = new Derived();   // Upcasting (safe)
+int main()
+{
+    Base obj;
 
-    Derived* dptr = dynamic_cast<Derived*>(ptr);
+    try
+    {
 
-    if (dptr) {  // Check if cast successful
-        dptr->derivedOnly();
-    } else {
-        cout << "Cast failed\n";
+        Derived &ref = dynamic_cast<Derived &>(obj);
     }
-
-    delete ptr;
+    catch (bad_cast &e)
+    {
+        cout << "Cast Failed " << e.what() << endl;
+    }
 }
