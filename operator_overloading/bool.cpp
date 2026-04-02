@@ -1,6 +1,6 @@
 /*
 * project   : https://github.com/Robin005cr/Professional_CPP
-* file name : assignmentOperator.cpp
+* file name : bool.cpp
 * author    : Robin CR
 * mail id   : robinchovallurraju@gmail.com
 * LinkedIn  : https://www.linkedin.com/in/robin-cr/
@@ -14,33 +14,24 @@
 #include <iostream>
 using namespace std;
 
-class Movie
-{
-    
-    public:
-        string name;
-        int time_hr;
-        string journer;
-        
-        Movie operator=(const Movie& other)
-        {
-            name = other.name;
-            time_hr = other.time_hr;
-            return *this;
-        }
+class TestOddEven {
+    int value;
+public:
+    TestOddEven(int v) : value(v) {}
+
+    operator bool() {
+        return (value%2) == 0;
+    }
 };
 
-int main()
-{
-    Movie m1;
-    m1.name = "Titanic";
-    m1.time_hr = 2;
-    
-    Movie m2;
-    m2 = m1;
-    
-    cout<<"M1:"<<m1.name<<endl;
-    cout<<"M2:"<<m2.name<<endl;
+int main() {
+    TestOddEven t1(10), t2(5);
 
-    return 0;
+    if (t1) {
+        cout << "t1 is even" << endl;
+    }
+
+    if (!t2) {
+        cout << "t2 is odd" << endl;
+    }
 }
