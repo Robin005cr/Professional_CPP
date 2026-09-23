@@ -1,6 +1,6 @@
 /*
 * project   : https://github.com/Robin005cr/Professional_CPP
-* file name : weak_ptr.cpp
+* file name : weak_ptr_2.cpp
 * author    : Robin CR
 * mail id   : robinchovallurraju@gmail.com
 * LinkedIn  : https://www.linkedin.com/in/robin-cr/
@@ -27,13 +27,8 @@ public:
 
 int main() {
     std::shared_ptr<Object> sharedObject = std::make_shared<Object>(42);
+    cout<<sharedObject->data<<endl;
     std::weak_ptr<Object> weakObject = sharedObject;
-
-    if (auto locked = weakObject.lock()) {
-        std::cout << "The value stored in sharedObject: " << locked->data << std::endl;
-    }
-
-    sharedObject.reset(); // Object gets destroyed here if no other shared_ptr owns it
-    std::cout << "End of Program" << std::endl;
+    // cout<<weakObject->data<<endl;  // weak pointer cannot be dereferenced or used
     return 0;
 }
