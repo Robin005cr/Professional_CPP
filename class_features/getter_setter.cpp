@@ -11,6 +11,8 @@
 * I value constructive feedback and aim to continuously improve the quality of the work.
 *
 */
+
+// Setter_getter is the way at which encapsulation is achieved.
 #include <iostream>
 #include <sstream>
 using namespace std;
@@ -72,6 +74,7 @@ int main()
     cin >> age >> first_name >> last_name >> standard;
 
     Student st;
+    // st.age_ = 12; // invalid
     st.set_age(age);
     st.set_standard(standard);
     st.set_first_name(first_name);
