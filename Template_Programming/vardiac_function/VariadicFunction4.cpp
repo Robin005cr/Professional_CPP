@@ -1,5 +1,18 @@
-#include<iostream>
-#include<vector>
+/*
+ * project   : https://github.com/Robin005cr/Professional_CPP
+ * file name : VariadicFunction4.cpp
+ * author    : Robin CR
+ * mail id   : robinchovallurraju@gmail.com
+ * LinkedIn  : https://www.linkedin.com/in/robin-cr/
+ * portfolio : https://robin005cr.github.io/
+ *
+ * Note : If any mistakes, errors, or inconsistencies are found in the code, please feel free to mail me.
+ * Suggestions for improvements or better methods are always welcome and appreciated.
+ * I value constructive feedback and aim to continuously improve the quality of the work.
+ *
+ */
+#include <iostream>
+#include <vector>
 using namespace std;
 
 class Data
@@ -11,9 +24,10 @@ private:
     vector<char> v4;
 
     //-----------------
-    template<typename T> void Add(T x)
+    template <typename T>
+    void Add(T x)
     {
-        cout <<"Cannot process:" << x << endl;
+        cout << "Cannot process:" << x << endl;
     }
     void Add(int x)
     {
@@ -35,14 +49,15 @@ private:
 
     //----------------
 public:
-    
     //******Variadic function templates as members of a NON-GENERIC class *****
-    template<typename T> void fun(T value)
+    template <typename T>
+    void fun(T value)
     {
         this->Add(value);
     }
-    
-    template <typename T1, typename... T2> void fun(T1 value, T2... args)
+
+    template <typename T1, typename... T2>
+    void fun(T1 value, T2... args)
     {
         this->Add(value);
         this->fun(args...);
@@ -50,14 +65,26 @@ public:
 
     void print()
     {
-        cout <<"values populated onto the vector..." << endl;
-        for(auto x:v1){cout << x <<",";}
+        cout << "values populated onto the vector..." << endl;
+        for (auto x : v1)
+        {
+            cout << x << ",";
+        }
         cout << endl;
-        for(auto x:v2){cout << x <<",";}
+        for (auto x : v2)
+        {
+            cout << x << ",";
+        }
         cout << endl;
-        for(auto x:v3){cout << x <<",";}
+        for (auto x : v3)
+        {
+            cout << x << ",";
+        }
         cout << endl;
-        for(auto x:v4){cout << x <<",";}
+        for (auto x : v4)
+        {
+            cout << x << ",";
+        }
         cout << endl;
     }
 };
@@ -66,7 +93,7 @@ public:
 int main()
 {
     Data obj1;
-    obj1.fun(10, 23, 45.12f, 56.78, 200, 'a',"hello");
+    obj1.fun(10, 23, 45.12f, 56.78, 200, 'a', "hello");
     obj1.print();
     return 0;
 }

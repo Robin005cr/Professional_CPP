@@ -20,6 +20,7 @@ class Innova
         int modelNumber;
         string firstName;
     public: 
+        //friend lets the operator<< function access class's private data member
         friend ostream &operator <<(ostream &output,Innova &rhs);
         friend istream &operator >>(istream &input,Innova &rhs);
         
